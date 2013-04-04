@@ -1,0 +1,9 @@
+
+{
+     "kara": {
+         "appPackage": "net.intellij.erokhins.kara.textbook",
+         "publicDir": "public",
+         "stylesheetDir": "stylesheets",
+         "sessionDir": "tmp/sessions"
+     }
+}
