@@ -15,11 +15,11 @@ class MainStyle1() : Stylesheet() {
         id("mainDiv") {
             minHeight = 400.px
             backgroundColor = c("#fff")
+            boxShadown = shadow(15);
             borderRadius = 10.px
             padding = box(1.px, 10.px)
             h1 {
                 textAlign = TextAlign.center
-                backgroundColor = c("#f00")
             }
         }
     }

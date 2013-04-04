@@ -13,6 +13,7 @@ class DefaultStyles() : Stylesheet() {
             marginLeft = 1.em
         }
         s("#main") {
+            boxShadown = shadow(15);
             width = 85.percent
             backgroundColor = c("#fff")
             margin = box(0.px, auto)
